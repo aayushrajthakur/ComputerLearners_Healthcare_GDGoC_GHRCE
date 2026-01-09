@@ -44,3 +44,43 @@ Real-Time Communication	WebSockets, Firebase Cloud Messaging (push notifications
 Location Services	Google Maps API, GPS integration
 Deployment & DevOps	Docker, Kubernetes, AWS/GCP for cloud hosting
 Security	JWT Authentication, HTTPS, Role-Based Access Control
+
+## 🚀 How to Run
+
+### AdminConsole
+The AdminConsole is a Node.js/Typescript application.
+
+1. **Navigate to the directory:**
+   ```bash
+   cd AdminConsole
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+
+### OneCall App
+The OneCall App is a native Android application (Kotlin/Java).
+
+#### Prerequisites
+- Android Studio to run and debug the app.
+- Java Development Kit (JDK) installed.
+
+#### Steps
+1. **Open project in Android Studio:**
+   - Launch Android Studio.
+   - Select **Open** and browse to `OneCall_App/OneCall`.
+
+2. **Sync & Build:**
+   - Allow Gradle to sync dependencies.
+   - Connect a device or start an emulator.
+
+3. **Run:**
+   - Click the **Run** button (green play icon) in Android Studio.
+
