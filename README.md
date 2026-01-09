@@ -68,6 +68,10 @@ The AdminConsole is a Node.js/Typescript application.
 ### OneCall App
 The OneCall App is a native Android application (Kotlin/Java).
 
+### OneCall Apk Drive Link
+For easy accessibility, the OneCall App is available as an APK file on Google Drive.
+Drive Link: https://drive.google.com/file/d/1JSQTzTFQFmZQB1O4v3XIx9o3aNPSxIwE/view?usp=drive_link
+
 #### Prerequisites
 - Android Studio to run and debug the app.
 - Java Development Kit (JDK) installed.
