@@ -1,0 +1,12 @@
+[vite] connecting...
+[vite] connected.
+Firebase config: 
+Object {databaseURL: "https://onecall-c9557-default-rtdb.firebaseio.com", projectId: "onecall-c9557", apiKey: "***provided***"}
+Firebase data received: null
+Error processing location data: 
+TypeError {}
+message: "Cannot convert undefined or null to object"
+stack: "TypeError: Cannot convert undefined or null to object↵ at Object.keys (<anonymous>)↵ at https://dc4e306d-1291-41da-a649-b7d2d48b6eab-00-5iiyybgxhvou.janeway.replit.dev/src/pages/home.tsx?t=1753170691899:54:56↵ at CallbackContext.onValue (https://dc4e306d-1291-41da-a649-b7d2d48b6eab-00-5iiyybgxhvou.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/firebase_database.js?v=e903fc46:8560:27)↵ at https://dc4e306d-1291-41da-a649-b7d2d48b6eab-00-5iiyybgxhvou.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/firebase_database.js?v=e903fc46:9067:41↵ at exceptionGuard (https://dc4e306d-1291-41da-a649-b7d2d48b6eab-00-5iiyybgxhvou.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/firebase_database.js?v=e903fc46:401:5)↵ at eventListRaise (https://dc4e306d-1291-41da-a649-b7d2d48b6eab-00-5iiyybgxhvou.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/firebase_database.js?v=e903fc46:7686:7)↵ at eventQueueRaiseQueuedEventsMatchingPredicate (https://dc4e306d-1291-41da-a649-b7d2d48b6eab-00-5iiyybgxhvou.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/firebase_database.js?v=e903fc46:7665:9)↵ at eventQueueRaiseEventsForChangedPath (https://dc4e306d-1291-41da-a649-b7d2d48b6eab-00-5iiyybgxhvou.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/firebase_database.js?v=e903fc46:7655:3)↵ at Object.onComplete (https://dc4e306d-1291-41da-a649-b7d2d48b6eab-00-5iiyybgxhvou.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/firebase_database.js?v=e903fc46:7774:9)↵ at https://dc4e306d-1291-41da-a649-b7d2d48b6eab-00-5iiyybgxhvou.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/firebase_database.js?v=e903fc46:2366:22"
+get stack: ƒ ()
+set stack: ƒ ()
+[[Prototype]]: Object
